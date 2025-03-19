@@ -1,0 +1,12 @@
+What is the average cholesterol level (chol) for people with and without heart disease?
+How many people in each age group are affected by heart disease?
+What is the average blood pressure (trestbps) for people with heart disease compared to those without?
+What is the distribution of thalach (maximum heart rate achieved) based on the presence of heart disease?
+Which age group has the highest rate of heart disease?
+What is the percentage of people with chest pain type (cp) who have heart disease?
+What is the average oldpeak (depression induced by exercise relative to rest) for patients with heart disease?
+How does the cholesterol level (chol) vary by the presence or absence of exercise-induced angina (exang)?
+What is the most common heart disease diagnosis (target = 1) by age range?
+What is the maximum and minimum value of thalach (maximum heart rate achieved) in the dataset?
+How many patients have fbs = 1 (fasting blood sugar > 120 mg/dl) with and without heart disease?
+What is the average ca (number of major vessels colored by fluoroscopy) for patients with and without heart disease?
